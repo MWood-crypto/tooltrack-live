@@ -1,0 +1,15 @@
+{
+  "name": "ToolTrack — Site Tool Register",
+  "short_name": "ToolTrack",
+  "description": "Sign tools out and back in across construction sites. Works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080b12",
+  "theme_color": "#080b12",
+  "categories": ["business", "productivity", "utilities"],
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
