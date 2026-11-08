@@ -2,7 +2,7 @@
  * The `push` handler is ready for a real backend (VAPID) later; the app
  * also fires local notifications for the reminder engine. */
 
-const CACHE = 'tooliq-shell-v1';
+const CACHE = 'tooliq-shell-v2';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon.svg', './favicon.svg'];
 
 self.addEventListener('install', (event) => {
